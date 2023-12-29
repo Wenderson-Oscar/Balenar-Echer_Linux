@@ -13,12 +13,22 @@ cd Downloads
 2 instalar o BalenaEtcher
 
 ```bash
+sudo apt install balena-etcher_1.18.11_amd64.deb
+```
+ou 
+```bash
+
 sudo dpkg -i balena-etcher_1.18.11_amd64.deb
 ```
 
 3 Execute o `BalenaEtcher`
 ```bash
 balena-etcher
+```
+
+`Remover o BalenaEtcher`
+```bash
+sudo apt remove balena-etcher
 ```
 
 Link do Repositorio do Balena-Etcher <br>
