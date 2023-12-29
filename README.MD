@@ -19,3 +19,5 @@ sudo dpkg -i balena-etcher_1.18.11_amd64.deb
 ```
 balena-etcher-electron
 ```
+Link do Repositorio do Balena-Etcher <br>
+[Link](https://github.com/balena-io/etcher#debian-and-ubuntu-based-package-repository-gnulinux-x86x64)
