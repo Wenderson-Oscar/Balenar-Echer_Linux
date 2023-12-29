@@ -1,7 +1,7 @@
 # Tutorial Para Baixar o Balenar-Echer no Linux
 
 
-1 Baixe o arquivo de instalação do `BalenaEtcher`` / cole a url abaixo no navegador.
+1 Baixe o arquivo de instalação do `BalenaEtcher` / cole a url abaixo no navegador.
 ```
 https://github.com/balena-io/etcher/releases/download/v1.18.11/balena-etcher_1.18.11_amd64.deb
 ```
